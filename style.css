@@ -1,9 +1,9 @@
 body{
-    background-color:gray;
+    background-color:rgb(197, 192, 192);
 }
 #container{
       text-align: center;
       margin:20%;
-      color: aqua;
+      color:gray;
       font-size:70px;
 }
